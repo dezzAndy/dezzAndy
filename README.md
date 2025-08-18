@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hey! It's André
+- Computer Science Engineer from the University of Guadalajara. 🦁
+- I'm currently learning about AI, Operating Systems, Algorithm Analysis and Computer Networks.
+- Fell in love with Fedora Linux, PostgreSQL, PHP and C++. 🩷
+- RIP David Lynch. 🌹
 <!--
 **dezzAndy/dezzAndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
