@@ -1,5 +1,5 @@
 ## Hi, I'm André
-- Computer Science Engineer from the University of Guadalajara.
+- Computer Science Engineer from the Universidad de Guadalajara.
 - I'm currently working on ML, Operating Systems, Algorithm Analysis, Metaheuristics Algorithms and projects made in Assembly x86.
 - Fell in love with Fedora Linux, PostgreSQL, Python and C++. 🩷
 - RIP David Lynch. 🌹
